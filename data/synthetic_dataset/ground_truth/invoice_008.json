@@ -1,0 +1,8 @@
+{
+    "document_type": "invoice",
+    "policy_number": "POL-366152",
+    "claim_amount": "$5930.00",
+    "name": "Vikram Singh",
+    "date": "2026-10-23",
+    "image_path": "data/synthetic_dataset\\images\\invoice_008.jpg"
+}

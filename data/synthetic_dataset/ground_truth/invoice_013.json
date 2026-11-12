@@ -1,0 +1,8 @@
+{
+    "document_type": "invoice",
+    "policy_number": "POL-744582",
+    "claim_amount": "$9529.00",
+    "name": "Priya Patel",
+    "date": "2026-10-08",
+    "image_path": "data/synthetic_dataset\\images\\invoice_013.jpg"
+}
